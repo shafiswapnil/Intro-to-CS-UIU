@@ -3,7 +3,7 @@
 
 int main()
 {
-    // SET B
+    // Solution to SET B
     float fare_per_km = 30;
     float fare_per_min = 0.75;
 
