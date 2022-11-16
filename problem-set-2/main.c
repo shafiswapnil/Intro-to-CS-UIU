@@ -7,7 +7,7 @@ int main()
     // SET A
     float diameter, thickness;
 
-    printf("Please mention the diameter (between 6 inch and 18 inch)\n");
+    printf("Please mention the diameter (from 6 inch to 18 inch)\n");
     scanf("%f", &diameter);
     printf("Please mention the thickness (from 0.5 inch to 2 inch)\n");
     scanf("%f", &thickness);
