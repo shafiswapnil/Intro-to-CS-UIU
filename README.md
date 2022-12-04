@@ -4,7 +4,8 @@
 
 | Problem | LINK |
 | ------- | ---- |
-| Basic Problem | [Google Drive](https://drive.google.com/file/d/1EEVrcEy6y2xcDqYZdTXBqQ3djpoHz9Il/view?usp=share_link) |
-| Set A | [Google Drive](https://drive.google.com/file/d/1Upgks4-u_Ew-CFEUAX5Lc7_Yw6PM0WMv/view?usp=share_link) |
-| Set B | [Google Drive](https://drive.google.com/file/d/1uo4E-sFrPrycn8touC_caWzdezGUhVU-/view?usp=share_link) |
+| Basic Problem | [Google Drive](https://drive.google.com/file/d/1gkXliMBcxej-npWggA-Hrm5p_e20lLmU/view?usp=share_link) |
+| Set A | [Google Drive](https://drive.google.com/file/d/1HwCcitugJ9tIOEaAEEQl7tICi-lbqj1m/view?usp=share_link) |
+| Set B | [Google Drive](https://drive.google.com/file/d/1C4f1Z4yAswGRmhQqMVc8-KxB0ymvwHxh/view?usp=share_link) |
+| Conditions | [Google Drive](https://drive.google.com/file/d/1jZ3AW0HIiNYtX3PL2kdUSqOxhd8vYJZq/view?usp=share_link) |
 
