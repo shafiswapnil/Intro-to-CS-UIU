@@ -7,6 +7,7 @@ int main()
 
   while (1)
   {
+    printf("Input something: \n");
     scanf("%c", &input);
 
     if (input == 'A')
