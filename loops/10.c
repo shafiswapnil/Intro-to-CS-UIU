@@ -18,6 +18,7 @@ int main()
       addition += i;
     }
   }
+
   printf("Result: %d\n", addition);
 
   return 0;
