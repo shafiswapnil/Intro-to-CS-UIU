@@ -2,19 +2,21 @@
 
 int main()
 {
-  int input, reversed = 0;
+  int input;
+  int reversed = 0;
 
   printf("Input a number: \n");
   scanf("%d", &input);
 
   while (input != 0)
   {
+    // formulas
     int digit = input % 10;
     reversed = reversed * 10 + digit;
     input /= 10;
   }
 
-  printf("%d\n", reversed);
+  printf("Reversed: %d\n", reversed);
 
   return 0;
 }
