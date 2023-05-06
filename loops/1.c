@@ -8,7 +8,16 @@ int main()
 
   for (int i = 1; i <= input; i++)
   {
-    printf("%d\n", i);
+    // printf("%d\n", i);
+
+    if (i == input)
+    {
+      printf("%d \n", i);
+    }
+    else
+    {
+      printf("%d, ", i);
+    }
   }
 
   return 0;
